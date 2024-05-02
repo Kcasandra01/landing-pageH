@@ -1,0 +1,21 @@
+@import url(file:///C:/Users/RYZEN%205/Desktop/landing%20page/index.html);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* NAVBAR */
+.navbar{
+    height: 100px;
+    background-color: chocolate;   
+}
+
+.navbar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space between;
+    max-width: 85%;
+    margin: 0 auto;
+    height: 100;
+}
